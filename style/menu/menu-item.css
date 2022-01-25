@@ -1,0 +1,8 @@
+.menu__item{
+    list-style: none;
+    text-decoration-color: #a5a5a5;
+}
+
+.menu__item:last-child a{
+    margin-right: 0;
+}
