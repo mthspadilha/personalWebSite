@@ -1,0 +1,52 @@
+.skills__imagem{
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    margin: 0 auto;
+    width: 150px;
+}
+
+.skills__imagem--java{
+    background-image: url(../../images/java-logo.png);
+}
+
+.skills__imagem--spring{
+    background-image: url(../../images/spring-logo2.png);
+}
+
+.skills__imagem--postgres{
+    background-image: url(../../images/postgres-logo.png);
+}
+
+.skills__imagem--js{
+    background-image: url(../../images/js-logo.png);
+    height: 125px;
+    margin: 0 auto;
+    width: 125px;
+}
+
+.skills__imagem--angular{
+    background-image: url(../../images/angular.png);
+    height: 125px;
+    margin: 0 auto;
+    width: 125px;
+}
+
+.skills__imagem--react{
+    background-image: url(../../images/react-logo.png);
+    height: 125px;
+    margin: 0 auto;
+    width: 125px;
+}
+
+.skills__imagem--git{
+    background-image: url(../../images/git-logo.png);
+}
+
+.skills__imagem--kubernetes{
+    background-image: url(../../images/kubernetes-logo.png);
+    height: 200px;
+    width: 200px;
+
+}

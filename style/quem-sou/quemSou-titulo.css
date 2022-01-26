@@ -1,3 +1,9 @@
-.quem-sou__titulo{
+h1 {
     margin-left: 2rem;
+}
+
+h2{
+    margin-bottom: 2rem;
+    font-family: Ubuntu mono;
+    margin-left: 5.25rem;
 }
